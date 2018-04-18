@@ -16,7 +16,7 @@ Kenta Hasegawa
 
 | No.| Country | Position | Player | Notes |
 | -- | ------- | -------- | ------ | ------ |
-| 17		| Japan		| FW		| Cayman Togashi  |(on loan from Yokohama F. Marinos) |
+| 17		| Japan		| FW		| Cayman Togashi  | 10 August 1993 (on loan from Yokohama F. Marinos) |
 | 7		| Japan		| MF		| Takuji Yonemoto | 3 December 1990 |
 | 15		| Japan		| FW		| Takefusa Kubo | 4 June 2001|
 | 4		| Japan		| DF		| Kazunori Yoshimoto | April 24, 1988 |
@@ -45,7 +45,7 @@ Kenta Hasegawa
 | No.| Country | Position | Player | Notes |
 | -- | ------- | -------- | ------ | ------ |
 | 3		| **Japan**		| DF		| Masato Morishige  | (captain) 21 May 1987 |
-| 9		| Brazil		| FW		| Diego Oliveira  |(on loan from Kashiwa Reysol) |
+| 9		| Brazil		| FW		| Diego Oliveira  | (on loan from Kashiwa Reysol) |
 | 10		| Japan		| MF		| Yohei Kajiyama | |
 | 19	| 	Japan		| MF		| Tasuku Hiraoka | |
 | 22	| 	Japan		| DF		| Masayuki Yamada | |
