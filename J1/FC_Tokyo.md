@@ -17,15 +17,15 @@ Kenta Hasegawa
 | No.| Country | Position | Player | Notes |
 | -- | ------- | -------- | ------ | ------ |
 | 17		| Japan		| FW		| Cayman Togashi  |(on loan from Yokohama F. Marinos) |
-| 7		| Japan		| MF		| Takuji Yonemoto | |
-| 15		| Japan		| FW		| Takefusa Kubo | |
+| 7		| Japan		| MF		| Takuji Yonemoto | 3 December 1990 |
+| 15		| Japan		| FW		| Takefusa Kubo | 4 June 2001|
 | 4		| Japan		| DF		| Kazunori Yoshimoto | April 24, 1988 |
-| 6		| Japan		| DF		| Kosuke Ota | |
+| 6		| Japan		| DF		| Kosuke Ota | July 23, 1987 |
 | 5		| **Japan**		| DF		| Yuichi Maruyama | 16 June 1989 |
-| 8		| Japan		| MF		| Yojiro Takahagi | |
-| 33	| 	Japan		| GK		| Akihiro Hayashi | |
+| 8		| Japan		| MF		| Yojiro Takahagi | 2 August 1986 |
+| 33	| 	Japan		| GK		| Akihiro Hayashi | May 7, 1987 |
 | 2	 | **Japan**		| DF		| Sei Muroya | 5 April 1995 |
-| 20	| 	Japan		| FW		| Ryoichi Maeda | |
+| 20	| 	Japan		| FW		| Ryoichi Maeda | 9 October 1981 |
 
 ## Substitutes
 
