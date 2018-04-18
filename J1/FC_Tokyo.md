@@ -34,3 +34,20 @@ Kenta Hasegawa
 | 20	| 	Japan		| FW		| Ryoichi Maeda | |
 | 22	| 	Japan		| DF		| Masayuki Yamada | |
 | 23	| 	Japan		| FW		| Kiichi Yajima | |
+| 24		| Japan		| FW		| Taichi Hara  | |
+| 25	| 	Japan		| DF		| Ryoya Ogawa | |
+| 26	| 	Japan		| DF		| Takahiro Yanagi | |
+| 27	| 	Japan		| MF		| Sotan Tanabe | |
+| 28	| 	Japan		| MF		| Takuya Uchida | |
+| 29	| 	Japan		| DF		| Makoto Okazaki | |
+| 30	| 	Japan		| GK		| Riku Hirosue | |
+| 31	| 	Thailand	| DF	| Jakkit Wachpirom | (on loan from Bangkok United) |
+| 33	| 	Japan		| GK		| Akihiro Hayashi | |
+| 35	| 	Japan		| MF		| Yoshitake Suzuki | |
+| 38	| 	Japan		| MF		| Keigo Higashi | |
+| 39	| 	Japan		| MF		| Kotaro Omori | |
+| 40	| 	Japan		| MF		| Rei Hirakawa | |
+| 44	| 	Japan	| MF	|Manato Shinada | |
+| 48	| 	South Korea	| DF	|Jang Hyun-Soo | |
+| 50	| 	Japan	|GK	|Go Hatano | |
+| 51	| 	Brazil	| MF|	Lipe Veloso | |
