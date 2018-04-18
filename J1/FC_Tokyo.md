@@ -16,10 +16,9 @@ Kenta Hasegawa
 
 | No.| Country | Position | Player | Notes |
 | -- | ------- | -------- | ------ | ------ |
-| 1	 | Japan	 | GK	| Takuo Okubo | |
-| 2	 | Japan		| DF		| Sei Muroya | |
-| 3		| Japan		| DF		| Masato Morishige  | (captain) |
-| 4		| Japan		| DF		| Kazunori Yoshimoto | |
+| 1	 | Japan	 | GK	| Takuo Okubo | September 18, 1989 |
+| 2	 | **Japan**		| DF		| Sei Muroya | 5 April 1995 |
+| 3		| **Japan**		| DF		| Masato Morishige  | (captain) 21 May 1987 |
 | 5		| Japan		| DF		| Yuichi Maruyama | |
 | 6		| Japan		| DF		| Kosuke Ota | |
 | 7		| Japan		| MF		| Takuji Yonemoto | |
@@ -51,3 +50,9 @@ Kenta Hasegawa
 | 48	| 	South Korea	| DF	|Jang Hyun-Soo | |
 | 50	| 	Japan	|GK	|Go Hatano | |
 | 51	| 	Brazil	| MF|	Lipe Veloso | |
+
+## On Loan
+
+| No.| Country | Position | Player | Notes |
+| -- | ------- | -------- | ------ | ------ |
+| 4		| Japan		| DF		| Kazunori Yoshimoto | April 24, 1988 |
