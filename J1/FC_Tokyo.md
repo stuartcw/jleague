@@ -18,7 +18,7 @@ Kenta Hasegawa
 | -- | ------- | -------- | ------ | ------ |
 | 1	 | Japan	 | GK	| Takuo Okubo | |
 | 2	 | Japan		| DF		| Sei Muroya | |
-| 3		| Japan		| DF		| Masato Morishige (captain) |
+| 3		| Japan		| DF		| Masato Morishige  | (captain) |
 | 4		| Japan		| DF		| Kazunori Yoshimoto | |
 | 5		| Japan		| DF		| Yuichi Maruyama | |
 | 6		| Japan		| DF		| Kosuke Ota | |
